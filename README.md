@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @edakturk14
-- 👀 I’m interested in web3, serverless, devops
-- 🌱 I’m currently learning solidity
+Introductions are overrated. 
 
 
 <!---
