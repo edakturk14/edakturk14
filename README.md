@@ -1,4 +1,4 @@
-Introductions are overrated & share way too much on Twitter. 
+Introductions are overrated. 
 
 
 <!---
